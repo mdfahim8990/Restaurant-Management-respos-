@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/posorderpad/app/src/main/res/layout/fragment_in_kitchen.xml" value="0.16197916666666667" />
+        <entry key="..\:/Android/posorderpad/app/src/main/res/layout/fragment_in_kitchen2.xml" value="0.1" />
+        <entry key="..\:/Android/posorderpad/app/src/main/res/layout/kitchen_oder_design.xml" value="0.1765625" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Respose/app/src/main/res/drawable/button_design.xml" value="0.125" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Respose/app/src/main/res/layout/Kithcen_oder_design.xml" value="0.10208333333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Respose/app/src/main/res/layout/activity_configuration.xml" value="0.2" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Respose/app/src/main/res/layout/activity_dashboard.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Respose/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Respose/app/src/main/res/layout/activity_order_details.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Respose/app/src/main/res/layout/activity_order_list.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Respose/app/src/main/res/layout/activity_reject_pop.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Respose/app/src/main/res/layout/fragment_all_activer_orders.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Respose/app/src/main/res/layout/fragment_delivered.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Respose/app/src/main/res/layout/fragment_delivering.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Respose/app/src/main/res/layout/fragment_in_kitchen.xml" value="0.1597542242703533" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Respose/app/src/main/res/layout/fragment_new_order.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Respose/app/src/main/res/layout/fragment_todays_order.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Respose/app/src/main/res/layout/kitchen_oder_design.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Respose/app/src/main/res/layout/kitchen_order_design.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Respose/app/src/main/res/layout/oder_design.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Respose/app/src/main/res/menu/main_menu.xml" value="0.10208333333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/posorderpad/app/src/main/res/drawable/button_design.xml" value="0.1315" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/posorderpad/app/src/main/res/drawable/view_design.xml" value="0.1315" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/posorderpad/app/src/main/res/layout/activity_accept.xml" value="0.18072916666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/posorderpad/app/src/main/res/layout/activity_dashboard.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/posorderpad/app/src/main/res/layout/activity_main.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/posorderpad/app/src/main/res/layout/activity_order_details.xml" value="0.18072916666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/posorderpad/app/src/main/res/layout/activity_order_list.xml" value="0.18072916666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/posorderpad/app/src/main/res/layout/activity_reject_pop.xml" value="0.18072916666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/posorderpad/app/src/main/res/layout/fragment_new_order.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/posorderpad/app/src/main/res/layout/fragment_rejected.xml" value="0.13385416666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/posorderpad/app/src/main/res/layout/fragment_todays_order.xml" value="0.13385416666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/posorderpad/app/src/main/res/layout/oder.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/posorderpad/app/src/main/res/layout/oder_design.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="openjdk-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

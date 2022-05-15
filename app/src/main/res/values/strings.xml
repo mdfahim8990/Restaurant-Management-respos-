@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">respos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="namesAccept">
+        <item> Accept  </item>
+        <item> 30 Minutes </item>
+        <item> 1 Hour </item>
+        <item> 1 Hour 30 Minutes</item>
+        <item> 2 Hour </item>
+        <item> 2 Hour 30 Minutes </item>
+    </string-array>
+
+    <string-array name="namesReject">
+        <item> Reject  </item>
+        <item> Out of Service </item>
+        <item> Delivery man not available </item>
+        <item> Kitchen Closed</item>
+
+    </string-array>
+
+
+</resources>
