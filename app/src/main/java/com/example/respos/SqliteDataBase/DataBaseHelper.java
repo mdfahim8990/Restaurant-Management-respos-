@@ -89,7 +89,7 @@ public class DataBaseHelper extends SQLiteOpenHelper {
     public void deleteData(Data data) {
 
         SQLiteDatabase sqLiteDatabase = this.getWritableDatabase();
-        int mytable = sqLiteDatabase.delete("mytable", "Restaurant_name = '" + data.getRestaurant_name() + "'", null);
+        int mytable = sqLiteDatabase.delete("mytable", "Restaurant_name = ' " + data.getRestaurant_name() + "'", null);
         Log.e(TAG, "DeleteData :" + mytable);
     }
 
